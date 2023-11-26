@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Ujian/static/css/main.54082198.css",
+    "main.js": "/Ujian/static/js/main.69bf8026.js",
+    "static/js/787.687737ff.chunk.js": "/Ujian/static/js/787.687737ff.chunk.js",
+    "static/media/04-02.jpg": "/Ujian/static/media/04-02.bc6816239c483c591418.jpg",
+    "static/media/03-01.jpg": "/Ujian/static/media/03-01.7e553a3aa4371dff5c23.jpg",
+    "static/media/01-02.jpg": "/Ujian/static/media/01-02.b528663fdc1c3fa87d4e.jpg",
+    "static/media/05-01.jpg": "/Ujian/static/media/05-01.e005ee2b3c95b63bc027.jpg",
+    "static/media/05-02.jpg": "/Ujian/static/media/05-02.524d44d59dc348c05ca6.jpg",
+    "static/media/05-03.jpg": "/Ujian/static/media/05-03.a38a46e4984f67d3bcad.jpg",
+    "static/media/03-02.jpg": "/Ujian/static/media/03-02.86cfd3dcd8e4f0b6f976.jpg",
+    "static/media/02-02.jpg": "/Ujian/static/media/02-02.3d7747b09470dd7daf11.jpg",
+    "static/media/02-01.jpg": "/Ujian/static/media/02-01.5633a9ddb6e90e5d9fbc.jpg",
+    "static/media/04-01.jpg": "/Ujian/static/media/04-01.e127f6511c94f128c4be.jpg",
+    "static/media/01-03.jpg": "/Ujian/static/media/01-03.0f9e242597fcfcc829f8.jpg",
+    "static/media/03-03.jpg": "/Ujian/static/media/03-03.9c4f86f65d6ad05a554d.jpg",
+    "static/media/01-01.jpg": "/Ujian/static/media/01-01.f5d6fcb6cdc38b2597c0.jpg",
+    "index.html": "/Ujian/index.html",
+    "main.54082198.css.map": "/Ujian/static/css/main.54082198.css.map",
+    "main.69bf8026.js.map": "/Ujian/static/js/main.69bf8026.js.map",
+    "787.687737ff.chunk.js.map": "/Ujian/static/js/787.687737ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54082198.css",
+    "static/js/main.69bf8026.js"
+  ]
+}
